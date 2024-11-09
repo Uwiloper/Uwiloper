@@ -7,7 +7,7 @@ I am a Development student, close to finishing my studies. I'm expanding my skil
 
 
 💡 &nbsp;I enjoy exploring new technologies and developing software solutions.\
-🎓 &nbsp;I'm currently studying at San Ignacio de Loyola ISIL/Institute. Lima Peru.\
+🎓 &nbsp;I'm currently studying at San Ignacio de Loyola ISIL/ Institute in Lima, Peru.\
 💬 &nbsp;Feel free to reach out to me for consulting or just to have an interesting conversation.\
 📫 &nbsp;Contact me at: wilmer12439@gmail.com
 
@@ -40,7 +40,7 @@ I am a Development student, close to finishing my studies. I'm expanding my skil
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 </span>
 
-<h4> 🧰 Soft Skills</h4>
+<h4> 🧰 Soft Design Skills</h4>
 <span>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
