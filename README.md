@@ -8,7 +8,7 @@ I’m a Development student, close to finishing my studies. I’m expanding my s
 
 💡 &nbsp;I enjoy exploring new technologies and developing software solutions.\
 🎓 &nbsp;I'm currently studying at San Ignacio de Loyola ISIL/ Institute in Lima, Peru.\
-💬 &nbsp;Feel free to reach out to me for consulting or just to have an interesting conversation.\
+💬 &nbsp;Feel free to reach out to me for consulting or just for an interesting conversation.\
 📫 &nbsp;Contact me at: wilmer12439@gmail.com
 
 
