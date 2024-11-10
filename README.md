@@ -1,6 +1,6 @@
 <h1 align="center">Hi ,I'm Uwiloper <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am a Development student, close to finishing my studies. I'm expanding my skills in both front-end and back-end development, and I work as a Designer in a company that boosts business growth. I love learning and creating new things that are productive, innovative, and creative. Each project is a chance to make an impact!.
+I’m a Development student, close to finishing my studies. I’m expanding my skills in both front-end and back-end development, and I work as a designer at a company that helps businesses grow. I love learning and creating new things that are productive, innovative, and creative. Each project is an opportunity to make an impact!
 
 
 ### 👨🏻‍💻 &nbsp;About Me  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
