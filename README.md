@@ -1,4 +1,4 @@
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="40" align="absmiddle" /> *¿Vas a darle vida a lo que imaginas?*
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="40" align="absmiddle" /> *Dale vida a lo que imaginas*
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=swift" height="30" />
